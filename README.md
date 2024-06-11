@@ -35,7 +35,7 @@ This project was built using the following technologies:
 
 - **Front-end:**
   - HTML
-  - CSS
+  - Tailwind CSS
   - JavaScript
   - React
 - **Back-end:**
