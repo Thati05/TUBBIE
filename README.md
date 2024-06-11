@@ -6,7 +6,7 @@
 Welcome to the **TUBBIE** repository! TUBBIE is a YouTube-like web application where you can browse and watch videos. This project helped me learn how to fetch APIs and manage video data effectively.
 
 ![TUBBIE Screenshot](path![tubbie3](https://github.com/Thati05/TUBBIE/assets/151874357/9fc0e643-67d7-4f6e-a110-9f0e0256d34f)
-/to/screenshot.png)
+
 
 ## Table of Contents
 
@@ -92,7 +92,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [m.seithati01@gmail.com](mailto:m.seithati01@gmail.com)
+Seithati - [m.seithati01@gmail.com](mailto:m.seithati01@gmail.com)
 
 Project Link: [https://github.com/thati05/tubbie](https://github.com/thati05/tubbie)
 
