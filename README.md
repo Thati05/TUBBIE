@@ -27,7 +27,6 @@ TUBBIE is a web application inspired by YouTube that allows users to watch and b
 
 - **Fetch Videos**: Retrieve video data using YouTube's API.
 - **Display Videos**: Show video thumbnails, titles, and other details.
-- **Search Functionality**: Search for videos by keywords.
 - **Responsive Design**: Access TUBBIE on any device, from desktops to smartphones.
 
 ## Technologies Used
