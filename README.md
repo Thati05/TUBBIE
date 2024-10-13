@@ -16,7 +16,6 @@ Welcome to the **TUBBIE** repository! TUBBIE is a YouTube-like web application w
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
